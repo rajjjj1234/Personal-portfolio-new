@@ -200,5 +200,3 @@ ScrollReveal().reveal(".skills-carousel-container", {
   delay: 800,
   origin: "bottom",
 });
-
-// me hu raj muhje love karo
